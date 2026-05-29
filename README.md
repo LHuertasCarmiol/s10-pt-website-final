@@ -6,7 +6,28 @@ To view markdown, use https://markdown-it.github.io <br><br>
 This repository is for students to demonstrate their Git and GitHub skills.<br><br><br><br><br>  
 
 ## Project Descripton: 
-\<*insert your project description here when instructed*><br><br><br><br><br>
+ ## Features Used
+
+### Bold Text
+**Pacific Trails Resort**
+
+### Italic Text
+*Created for Git Practice*
+
+### Inline Code
+`git checkout 9da42f0`
+
+### Hyperlink
+[GitHub](https://github.com)
+
+### List
+- Home Page
+- Activities Page
+- Yurts Page
+- Reservations Page
+
+### Image
+![Pacific Trails](images/coast.jpg)<br><br><br><br><br>
              
 ## Practice working in detached HEAD mode:
-Secret phrase: \<*i*nsert secret-phrasse here when instructed*>
+Secret phrase: "I traveled back in time to find this"
